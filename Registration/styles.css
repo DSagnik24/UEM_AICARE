@@ -17,7 +17,6 @@ body {
 .join-us-container {
     margin-bottom: 40px;
     position: relative;
-    z-index: 2; /* Bring JOIN US header to the front */
 }
 
 header {
